@@ -88,7 +88,6 @@ $ yarn build
 | :----------------------------: | :-----------: |
 | Iniciar o servidor json-server | `yarn server` |
 |  Iniciar modo desenvolvimento  |  `yarn dev`   |
-|        Executar testes         |  `yarn test`  |
 |     Compilar para produção     | `yarn build`  |
 
 Acesse <http://localhost:8080> para ver o resultado.
